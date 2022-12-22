@@ -20,7 +20,7 @@ function HomePage() {
             </Helmet>
             <Navbar />
             <Landing />
-            <About />
+            {/* <About /> */}
             <Experience />
             <Skills />
             <Projects />
